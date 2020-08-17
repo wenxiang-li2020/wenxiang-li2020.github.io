@@ -4,7 +4,7 @@
 
 E-mail: lwxiang@mail.ustc.edu.cn.
 
-<img src="微信图片_20200817090654" width="20%">
+<img src="微信图片_20200817090654.jpg" width="20%">
 ### Research Interests
 
 Computer Vision,  Hyperspectral Analysis, Deep Learning, Pattern Recognition
