@@ -9,16 +9,17 @@ E-mail: lwxiang@mail.ustc.edu.cn.
 
 Computer Vision,  Hyperspectral Analysis, Deep Learning, Pattern Recognition
 
-### Research Achievements
-_专利_
+### Project Experience and Research Achievements
+_Project_
 
-- CN201920419380.0一种基于高光谱技术的胶囊分选装置
+- Design and debugging of collimator control system
 - CN201910087104.3基于深度相机的黑果枸杞分选装置及识别与分类算法
 - CN201920635588.6一种新型甘蔗末梢剪切装置
 - CN201920154780.3一种可拆卸拓展的懒人桌
 - CN201920446020.X一种基于激光散斑的苗木根活力测量装置
 - CN201920154795.X一种基于倒钩凹槽履带的黑枸杞分选机
 
+_Patent_
 
 ### For CV in Papers
 ```text
