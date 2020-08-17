@@ -14,5 +14,5 @@ Auto-Control, Deep Learning
 Wenxiang Li was born in Taizhou, Jiangsu, China in 1995. 
 He graduated from Nanjing Forestry University in 2018 and obtained a bachelor's degree in engineering. 
 He is currently pursuing a master's degree at University of Science and Technology of China. 
-His research interests include the application of intelligent algorithms in industry, image data processing and hyperspectral analysis.
+His research interests include the application of intelligent algorithms in industry, the control of astronomical telescope .
 ```
